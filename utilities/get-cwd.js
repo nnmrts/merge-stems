@@ -8,7 +8,7 @@ const {
 	mainModule
 } = Deno;
 
-const isCompiled = execPath().endsWith("merge-stems");
+const isCompiled = execPath().match(/merge-stems-[a-z]$/) !== null;
 
 const getCwd = () => {
 	return isCompiled
