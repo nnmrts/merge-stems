@@ -4,7 +4,7 @@ Easily merge stems downloaded with <https://github.com/krystalgamer/stem-player-
 
 ## Installation
 
-1. Go to [Releases](https://github.com/nnmrts/merge-stem/releases)
+1. Go to [Releases](https://github.com/nnmrts/merge-stems/releases)
 2. Download the binary for your platform
 3. Move it to a folder which contains a subfolder called "stems", which contains all downloaded stems
 4. Double click on the binary and wait
