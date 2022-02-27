@@ -1,0 +1,8 @@
+{
+	"deno.enable": true,
+	"deno.lint": true,
+	"deno.unstable": true,
+	"deno.importMap": "./modules.json",
+	"deno.config": "./deno.json",
+	"deno.internalDebug": false
+}

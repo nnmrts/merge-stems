@@ -1,0 +1,10 @@
+{
+	"lint": {
+		"rules": {
+			"exclude": [
+				"require-await"
+			]
+		}
+	},
+	"importMap": "./modules.json"
+}

@@ -1,0 +1,7 @@
+{
+	"imports": {
+		"std/path": "https://deno.land/std@0.127.0/path/mod.ts",
+		"temporal": "https://esm.sh/temporal-polyfill?dev",
+		"core-js/proposals/array-grouping": "https://esm.sh/core-js/proposals/array-grouping?dev"
+	}
+}
