@@ -2,6 +2,10 @@
 
 Easily merge stems downloaded with <https://github.com/krystalgamer/stem-player-emulator> to complete tracks.
 
+## Dependencies
+
+You need to install ffmpeg for all this to work: https://www.ffmpeg.org/
+
 ## Installation
 
 1. Go to [Releases](https://github.com/nnmrts/merge-stems/releases)
